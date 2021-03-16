@@ -1,3 +1,3 @@
-# Hole-Mates-yeggs-jam2021-DP
+# Hole-Mates-yeggs-jam2021-RP
 
 # Memo
