@@ -6,9 +6,7 @@ vec4 linear_fog(vec4 inColor, float vertexDistance, float fogStart, float fogEnd
     }
 
     float fogValue = vertexDistance < fogEnd ? smoothstep(fogStart, fogEnd, vertexDistance) : 1.0;
-    vec4 pink = vec4(1.0,0.75,0.75,1.0);
-    //return vec4(mix(inColor.rgb, pink.rgb, float(int(fogValue * 4)) / 4 * fogColor.a), inColor.a);
-    return vec4(mix(inColor.rgb, pink.rgb, fogValue * fogColor.a), inColor.a);
+    return vec4(mix(inColor.rgb, vec3(1.0,0.75,0.75), fogValue * fogColor.a), inColor.a);
 }
 
 float linear_fog_fade(float vertexDistance, float fogStart, float fogEnd) {
