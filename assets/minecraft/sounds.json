@@ -1,0 +1,106 @@
+{
+    "music.menu": {
+		"replace": "true",
+		"sounds": [
+			{
+				"name": ""
+			}
+		]
+	},
+    "music.game": {
+		"replace": "true",
+		"sounds": [
+			{
+				"name": ""
+			}
+		]
+	},
+    "music.end": {
+		"replace": "true",
+		"sounds": [
+			{
+				"name": ""
+			}
+		]
+	},
+    "music.dragon": {
+		"replace": "true",
+		"sounds": [
+			{
+				"name": ""
+			}
+		]
+	},
+    "music.credits": {
+		"replace": "true",
+		"sounds": [
+			{
+				"name": ""
+			}
+		]
+	},
+    "music.creative": {
+		"replace": "true",
+		"sounds": [
+			{
+				"name": ""
+			}
+		]
+	},
+	"item.armor.equip_generic": {
+		"replace": "true",
+		"sounds": [
+			{
+				"name": ""
+			}
+		]
+	},
+    "entity.player.attack.weak": {
+        "replace": "true",
+        "sounds": [
+            {
+                "name": ""
+            }
+        ]
+    },
+    "entity.player.attack.crit": {
+        "replace": "true",
+        "sounds": [
+            {
+                "name": ""
+            }
+        ]
+    },
+    "entity.player.attack.nodamage": {
+        "replace": "true",
+        "sounds": [
+            {
+                "name": ""
+            }
+        ]
+    },
+    "entity.player.attack.knockback": {
+        "replace": "true",
+        "sounds": [
+            {
+                "name": ""
+            }
+        ]
+    },
+    "entity.player.attack.strong": {
+        "replace": "true",
+        "sounds": [
+            {
+                "name": ""
+            }
+        ]
+    },
+    "entity.player.attack.sweep": {
+        "replace": "true",
+        "sounds": [
+            {
+                "name": ""
+            }
+        ]
+    }
+}
