@@ -43,6 +43,15 @@
             "chars": [
                 "\ue03a"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "keybind:float/icon.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": [
+                "\ue03b"
+            ]
         }
     ]
 }
