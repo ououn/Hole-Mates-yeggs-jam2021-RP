@@ -12,8 +12,6 @@ uniform mat4 ProjMat;
 uniform vec2 ScreenSize;
 
 in float vertexDistance;
-in vec4 rawPos;
-
 out vec4 fragColor;
 
 void main() {
