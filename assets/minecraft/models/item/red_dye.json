@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+	  "layer0": "minecraft:item/red_dye"
+	},
+	"overrides": [
+	  { "predicate": { "custom_model_data": 10000 }, "model": "game:level_1/illusion/table"},
+	  { "predicate": { "custom_model_data": 10001 }, "model": "game:level_1/illusion/mug"},
+	  { "predicate": { "custom_model_data": 10002 }, "model": "game:level_1/illusion/bench"},
+	  { "predicate": { "custom_model_data": 10003 }, "model": "game:level_1/illusion/dish"},
+	  { "predicate": { "custom_model_data": 10100 }, "model": "game:level_1/illusion/steak/0"}
+	]
+  }
