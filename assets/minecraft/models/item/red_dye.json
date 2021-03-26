@@ -8,6 +8,8 @@
 	  { "predicate": { "custom_model_data": 10001 }, "model": "game:level_1/illusion/mug"},
 	  { "predicate": { "custom_model_data": 10002 }, "model": "game:level_1/illusion/bench"},
 	  { "predicate": { "custom_model_data": 10003 }, "model": "game:level_1/illusion/dish"},
+	  { "predicate": { "custom_model_data": 10004 }, "model": "game:level_1/illusion/window"},
+	  { "predicate": { "custom_model_data": 10005 }, "model": "game:level_1/illusion/poster"},
 	  { "predicate": { "custom_model_data": 10100 }, "model": "game:level_1/illusion/steak/0"}
 	]
   }
