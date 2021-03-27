@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+  "display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+  }
+}
