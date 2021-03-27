@@ -18,6 +18,10 @@ in vec4 normal;
 out vec4 fragColor;
 
 void main() {
+    if(vertexColor.r + vertexColor.g + vertexColor.b < 1.0){
+        fragColor = vec4(0.0,0.0,0.0,0.0);
+        return;
+    }
     vec4 vtc = vec4((1 - vertexColor.b) * (gl_FragCoord.y / ScreenSize.y + 0.5), vertexColor.b , vertexColor.b * (gl_FragCoord.y / ScreenSize.y + 0.8), 0.3);
     vec4 color = texture(Sampler0, texCoord0) * vtc * ColorModulator;
     if (color.a < 0.1) {

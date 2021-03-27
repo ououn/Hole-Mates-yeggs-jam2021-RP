@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "game:level_1/reality/damaged_bricks",
+      "x": 0,
+      "y": 0
+    },
+    "facing=north": {
+      "model": "game:level_1/reality/damaged_bricks",
+      "x": 0,
+      "y": 0
+    },
+    "facing=south": {
+      "model": "game:level_1/reality/damaged_bricks",
+      "x": 0,
+      "y": 0
+    },
+    "facing=west": {
+      "model": "game:level_1/reality/damaged_bricks",
+      "x": 0,
+      "y": 0
+    }
+  }
+}

@@ -10,6 +10,11 @@
 	  { "predicate": { "custom_model_data": 10003 }, "model": "game:level_1/illusion/dish"},
 	  { "predicate": { "custom_model_data": 10004 }, "model": "game:level_1/illusion/window"},
 	  { "predicate": { "custom_model_data": 10005 }, "model": "game:level_1/illusion/poster"},
-	  { "predicate": { "custom_model_data": 10100 }, "model": "game:level_1/illusion/steak/0"}
+	  { "predicate": { "custom_model_data": 10100 }, "model": "game:level_1/illusion/steak/0"},
+	  { "predicate": { "custom_model_data": 11000 }, "model": "game:level_1/reality/box_0"},
+	  { "predicate": { "custom_model_data": 11001 }, "model": "game:level_1/reality/box_1"},
+	  { "predicate": { "custom_model_data": 11002 }, "model": "game:level_1/reality/dish"},
+	  { "predicate": { "custom_model_data": 11003 }, "model": "game:level_1/reality/poster"},
+	  { "predicate": { "custom_model_data": 11100 }, "model": "game:level_1/reality/boots/0"}
 	]
   }

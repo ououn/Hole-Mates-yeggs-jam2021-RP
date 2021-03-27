@@ -15,6 +15,11 @@ in float vertexDistance;
 out vec4 fragColor;
 
 void main() {
+    if(ColorModulator.r + ColorModulator.g + ColorModulator.b < 1.0){
+        float value = (gl_FragCoord.y / ScreenSize.y + 3.0) / 4;
+        fragColor = vec4(0.8  * value ,0.8  * value,0.8  * value,1.0);
+        return;
+    }
     float value = (gl_FragCoord.y / ScreenSize.y + 3.0) / 4;
     fragColor = vec4(1.0 ,0.8  * value,0.8  * value,1.0);
 }
