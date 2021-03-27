@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "game:font/transition.png",
+            "ascent": 960,
+            "height": 1920,
+            "chars": ["a"]
+        }
+    ]
+}

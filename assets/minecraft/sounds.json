@@ -102,5 +102,14 @@
                 "name": ""
             }
         ]
+    },
+    "illusion_theme": {
+        "replace": "true",
+        "sounds": [
+            {
+                "name": "illusion_theme",
+                "stream":true
+            }
+        ]
     }
 }
