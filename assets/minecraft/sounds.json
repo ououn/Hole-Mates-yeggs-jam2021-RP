@@ -111,5 +111,13 @@
                 "stream":true
             }
         ]
+    },
+    "player.death": {
+        "replace": "true",
+        "sounds": [
+            {
+                "name": "death"
+            }
+        ]
     }
 }

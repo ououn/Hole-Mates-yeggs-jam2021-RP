@@ -141,7 +141,7 @@
 	  { "predicate": { "custom_model_data": 10242 }, "model": "game:level_1/diary/page_2a/42"},
 	  { "predicate": { "custom_model_data": 10243 }, "model": "game:level_1/diary/page_2a/43"},
 	  { "predicate": { "custom_model_data": 10244 }, "model": "game:level_1/diary/page_2a/44"},
-	  { "predicate": { "custom_model_data": 10345 }, "model": "game:level_1/diary/page_2a/45"},
+	  { "predicate": { "custom_model_data": 10245 }, "model": "game:level_1/diary/page_2a/45"},
 	  { "predicate": { "custom_model_data": 10300 }, "model": "game:level_1/diary/page_2b/0"},
 	  { "predicate": { "custom_model_data": 10301 }, "model": "game:level_1/diary/page_2b/1"},
 	  { "predicate": { "custom_model_data": 10302 }, "model": "game:level_1/diary/page_2b/2"},

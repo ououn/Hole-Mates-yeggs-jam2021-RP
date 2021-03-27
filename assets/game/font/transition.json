@@ -6,6 +6,13 @@
             "ascent": 960,
             "height": 1920,
             "chars": ["a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "game:font/transparent.png",
+            "ascent": 960,
+            "height": 1920,
+            "chars": ["b"]
         }
     ]
 }
