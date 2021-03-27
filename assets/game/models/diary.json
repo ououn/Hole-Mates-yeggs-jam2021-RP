@@ -3,7 +3,6 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "game:diary_base",
-		"text": "game:diary_test",
 		"particle": "game:diary_base"
 	},
 	"elements": [
