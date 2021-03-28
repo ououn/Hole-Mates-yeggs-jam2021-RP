@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/bricks"
+      },
+      {
+        "model": "game:level_1/reality/damaged_bricks"
+      }
+    ]
+  }
+}
