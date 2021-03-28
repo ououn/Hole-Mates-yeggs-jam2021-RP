@@ -1,0 +1,16 @@
+{
+  "parent": "game:diary",
+  "textures": {
+    "text": "game:level_2/diary_page_1"
+  },
+  "display": {
+    "firstperson_righthand": {
+			"rotation": [35.888888888888886, -180, 0],
+			"translation": [-9, 12.427777777777777, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [35.888888888888886, -180, 0],
+			"translation": [-9, 12.427777777777777, 0]
+		}
+  }
+}
