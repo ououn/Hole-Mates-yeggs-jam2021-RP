@@ -4,6 +4,9 @@
 	  "layer0": "minecraft:item/white_dye"
 	},
 	"overrides": [
-	  { "predicate": { "custom_model_data": 10000 }, "model": "tipadv:example/asshole"}
+	  { "predicate": { "custom_model_data": 10000 }, "model": "tipadv:example/asshole"},
+	  { "predicate": { "custom_model_data": 10001 }, "model": "tipadv:example/diary"},
+	  { "predicate": { "custom_model_data": 10002 }, "model": "tipadv:example/potion"},
+	  { "predicate": { "custom_model_data": 10003 }, "model": "tipadv:example/tips"}
 	]
   }

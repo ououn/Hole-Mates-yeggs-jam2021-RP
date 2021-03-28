@@ -1,0 +1,13 @@
+{
+	"parent": "game:diary",
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"translation": [-3.5, 0, 0],
+			"rotation": [55, 155, 2],
+			"scale": [1, 1, 1]
+		}
+	}
+}
