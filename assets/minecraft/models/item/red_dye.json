@@ -21,6 +21,7 @@
 	  { "predicate": { "custom_model_data": 20000 }, "model": "game:level_2/reality/rope"},
 	  { "predicate": { "custom_model_data": 20001 }, "model": "game:level_2/reality/sign_0"},
 	  { "predicate": { "custom_model_data": 20002 }, "model": "game:level_2/reality/sign_1"},
+	  { "predicate": { "custom_model_data": 21000 }, "model": "game:level_2/fax"},
 	  { "predicate": { "custom_model_data": 21001 }, "model": "game:level_2/illusion/sign_0"},
 	  { "predicate": { "custom_model_data": 21002 }, "model": "game:level_2/illusion/sign_1"}
 	]
