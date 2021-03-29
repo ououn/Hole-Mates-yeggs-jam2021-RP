@@ -1,0 +1,9 @@
+{
+	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
+	"parent": "game:level_2/fax",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "game:level_2/reality_fax",
+		"particle": "game:level_2/reality_fax"
+	}
+}
